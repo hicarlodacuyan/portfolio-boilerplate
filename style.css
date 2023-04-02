@@ -10,12 +10,6 @@ body {
   color: #fff;
 }
 
-/* .container {
-  padding: 0 10em;
-} */
-
-/* Header Section */
-
 header {
   display: flex;
   flex-direction: column;
@@ -322,6 +316,7 @@ h5 {
 
 footer {
   background-color: #242424;
+  color: #fff;
 }
 
 .contact {
